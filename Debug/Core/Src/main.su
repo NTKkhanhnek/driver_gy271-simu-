@@ -1,0 +1,7 @@
+main.c:35:14:Compass_AbsFloat	16	static
+main.c:40:14:Compass_CalculateHeading	24	static
+main.c:52:14:Compass_NormalizeAngle	16	static
+main.c:67:14:Compass_WrapAngleError	16	static
+main.c:82:14:Compass_GetAdaptiveMeasurementNoise	24	static
+main.c:94:14:Compass_KalmanUpdate	32	static
+main.c:121:5:main	24	static

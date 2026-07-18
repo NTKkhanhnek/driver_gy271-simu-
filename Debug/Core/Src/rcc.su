@@ -1,0 +1,5 @@
+rcc.c:6:6:rcc_init	24	static
+rcc.c:47:6:rcc_enable_AHB1	24	static
+rcc.c:53:6:rcc_enable_AHB2	24	static
+rcc.c:59:6:rcc_enable_APB1	24	static
+rcc.c:65:6:rcc_enable_APB2	24	static

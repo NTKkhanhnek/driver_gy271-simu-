@@ -1,0 +1,14 @@
+gy271.c:28:28:GY271_WriteReg	16	static
+gy271.c:38:28:GY271_ReadReg	16	static
+gy271.c:48:28:GY271_ReadRegs	16	static
+gy271.c:58:28:GY271_CheckID	16	static
+gy271.c:88:28:GY271_Reset	8	static
+gy271.c:103:28:GY271_SetConfig	8	static
+gy271.c:147:28:GY271_WaitDataReady	16	static
+gy271.c:190:13:GY271_ConvertRawToMagnetic	16	static
+gy271.c:197:13:GY271_CalculateHeading	16	static
+gy271.c:206:21:GY271_Init	8	static
+gy271.c:229:21:GY271_ReadRawData	24	static
+gy271.c:276:21:GY271_ReadMagneticField	24	static
+gy271.c:296:21:GY271_ReadHeading	32	static
+gy271.c:317:21:GY271_ReadData	32	static

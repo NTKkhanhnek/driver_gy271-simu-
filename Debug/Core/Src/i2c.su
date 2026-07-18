@@ -1,0 +1,12 @@
+i2c.c:52:14:i2c_start	8	static
+i2c.c:58:6:i2c_stop	4	static
+i2c.c:63:21:i2c_wait_flag_set	24	static
+i2c.c:76:13:i2c_clear_addr_flag	16	static
+i2c.c:84:21:i2c_send_address	24	static
+i2c.c:106:6:i2c_init	8	static
+i2c.c:136:14:i2c_send_byte	16	static
+i2c.c:159:14:i2c_read_byte	16	static
+i2c.c:184:14:i2c_master_transmit	24	static
+i2c.c:221:14:i2c_master_receive	24	static
+i2c.c:319:14:i2c_mem_write	24	static
+i2c.c:362:14:i2c_mem_read	16	static
